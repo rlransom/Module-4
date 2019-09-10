@@ -1,6 +1,6 @@
 # Module 4: Exploratory Data Analysis and Data Viz
 
-**Part 1: Complete the "ggplot2 Themes and Labeling Tutorial"**
+**Part 1: Complete the "ggplot2 Themes, Figure Labelling, and Saving" tutorial**
 The tutorial file is in this repository both as a `.md` and `.html` file. The tutorial also includes optional exercises that you can complete if you want extra practice working with ggplot2 functions. 
 
 **Part 2: Participate in `#TidyTuesday`**
