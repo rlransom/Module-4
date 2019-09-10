@@ -1,7 +1,7 @@
 # Module 4: Exploratory Data Analysis and Data Viz
 
 **Part 1: Complete the "ggplot2 Themes, Figure Labelling, and Saving" tutorial**
-The tutorial file is in this repository both as a `.md` and `.html` file. The tutorial also includes optional exercises that you can complete if you want extra practice working with ggplot2 functions. 
+The tutorial file (`module-4-tutorial`) is in this repository both as a `.md` and `.html` file. The tutorial also includes optional exercises that you can complete if you want extra practice working with ggplot2 functions. 
 
 **Part 2: Participate in `#TidyTuesday`**
 This week, you'll experience `#TidyTuesday`. `#TidyTuesday` is a "weekly social data project in R" in which members of the R community come together to create data visualizations based on the dataset of the week. Each dataset is accompanied by a recently-published popular press article that provides some context as to why the data are being analyzed. A new dataset is released each Tuesday. It's fun! 
