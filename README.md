@@ -1,9 +1,11 @@
 # Module 4: Exploratory Data Analysis and Data Viz
 
-**Part 1: Complete the "ggplot2 Themes, Figure Labelling, and Saving" tutorial**
+**Part 1: Complete the "ggplot2 Themes, Figure Labelling, and Saving" tutorial** 
+
 The tutorial file (`module-4-tutorial`) is in this repository both as a `.md` and `.html` file. The tutorial also includes optional exercises that you can complete if you want extra practice working with ggplot2 functions. 
 
 **Part 2: Participate in `#TidyTuesday`**
+
 This week, you'll experience `#TidyTuesday`. `#TidyTuesday` is a "weekly social data project in R" in which members of the R community come together to create data visualizations based on the dataset of the week. Each dataset is accompanied by a recently-published popular press article that provides some context as to why the data are being analyzed. A new dataset is released each Tuesday. It's fun! 
 
 For this homework assignment, you will create **one** data visualization that adheres to the principles and guidelines presented in the video lectures and reading by Kelleher and Wagener (2011). The only exception is with regards to color - since you haven't yet learned how to manipulate the color schemes of your ggplots, you are not expected to do so in this assignment. The visualization should be from one of the **2019** `#TidyTuesday` datasets. This week's `#TidyTuesday` dataset might not be of interest to you, so feel free to dig through the archive a bit. 
