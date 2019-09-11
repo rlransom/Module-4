@@ -1,4 +1,4 @@
-# Module 4: Exploratory Data Analysis and Data Viz
+# Module 4: Data Viz in R
 
 **Part 1: Complete the "ggplot2 Themes, Figure Labelling, and Saving" tutorial** 
 
