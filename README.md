@@ -19,7 +19,7 @@ Instructions for `#TidyTuesday` homework assignment:
 6. Save your ggplot using `ggsave()`. 
 7. Commit and push your repository changes to GitHub. Note that, this time, after you commit your changes, you can push the changes to your remote repository using buttons in RStudio: in the `Git` pane, click the `Push` button. 
 8. Submit the PDF of your visualization to the Module 4 Discussion Forum. In your Discussion Forum post, include the following:
-    - A link to your forked `Module-4` GitHub repository, which should include your code if you've completed step 7 correctly.
+    - A link to your forked `tidytuesday` GitHub repository, which should include your code if you've completed step 7 correctly.
     - A brief (3-5 sentence) description of any trends you uncovered in your visualization.
 9. **Extra credit**: Post your data visualization to Twitter. In the accompanying tweet, describe what you've plotted and include the hashtags `#TidyTuesday` and `#rstats`. Please tag me in the photo so I see your post. My username is [@NatalieGNelson](https://twitter.com/NatalieGNelson).
 
